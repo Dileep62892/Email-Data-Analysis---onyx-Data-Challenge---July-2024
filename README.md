@@ -65,7 +65,7 @@ This project analyzes email communication patterns within the organization. For 
 
 ## Tools Used
 
-- **Microsoft Power-BI (With ZoomCharts addins)
+- Microsoft Power-BI (With ZoomCharts addins)
 
 ## Usage
 To use this dashboard:
@@ -73,5 +73,6 @@ To use this dashboard:
 2. Open the `.pbix` file with Power BI Desktop.
 3. Use the provided slicers and filters to customize the data display.
 
-
+# Note
+- Use this link [link](https://app.powerbi.com/view?r=eyJrIjoiYzE4OTNjMDgtOTFmNC00OTc1LTk1NDEtMDNjNDk1MzEyZDQyIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9) to customize the data display using the slicers and filters.
 
